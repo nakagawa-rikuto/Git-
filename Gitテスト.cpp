@@ -13,6 +13,8 @@ int main()
     std::cout << "player作成\n";
 
     std::cout << "マージの要求\n";
+
+    std::cout << "マージしません\n";
 }
 
 
