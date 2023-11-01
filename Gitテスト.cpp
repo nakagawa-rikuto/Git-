@@ -15,6 +15,8 @@ int main()
     std::cout << "マージの要求\n";
   
     std::cout << "マージします\n";
+
+    std::cout << "プルリクエストの作成\n";
 }
 
 
