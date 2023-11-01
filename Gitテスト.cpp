@@ -18,6 +18,8 @@ int main()
     std::cout << "マージします\n";
 
     std::cout << "プルしてから作業します\n";
+
+    std::cout << "やっぱりプルをしない\n";
 }
 
 
