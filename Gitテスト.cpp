@@ -6,6 +6,7 @@
 int main()
 {
     std::cout << "Hello \n";
+
     std::cout << "LC1B_17_ナカガワ_リクト\n";
 
     std::cout << "2023/10/11\n";
